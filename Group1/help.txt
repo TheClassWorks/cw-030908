@@ -1,0 +1,4 @@
+سه نوع css داریم
+1-inline
+2-internal css داخلی
+3-external خارجی
